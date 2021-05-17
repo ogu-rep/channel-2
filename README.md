@@ -1,1 +1,1 @@
-# 匿名掲示板# react-tutorial
+# 匿名掲示板
